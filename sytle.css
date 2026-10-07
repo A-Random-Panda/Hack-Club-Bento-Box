@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: "Arial";
+    background-image: radial-gradient(#7879FF,#A3A3FF);
+}
+.title{
+    font-size: 60px;
+
+}
+.subheader{
+    font-size: 30px;
+}
